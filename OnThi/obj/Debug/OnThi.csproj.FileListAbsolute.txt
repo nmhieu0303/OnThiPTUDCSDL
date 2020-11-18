@@ -1,0 +1,7 @@
+C:\Users\HOME\source\repos\OnThi\OnThi\bin\Debug\OnThi.exe.config
+C:\Users\HOME\source\repos\OnThi\OnThi\bin\Debug\OnThi.exe
+C:\Users\HOME\source\repos\OnThi\OnThi\bin\Debug\OnThi.pdb
+C:\Users\HOME\source\repos\OnThi\OnThi\obj\Debug\OnThi.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\OnThi\OnThi\obj\Debug\OnThi.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\OnThi\OnThi\obj\Debug\OnThi.exe
+C:\Users\HOME\source\repos\OnThi\OnThi\obj\Debug\OnThi.pdb
