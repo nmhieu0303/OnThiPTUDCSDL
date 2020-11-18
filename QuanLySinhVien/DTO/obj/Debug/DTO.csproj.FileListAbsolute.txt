@@ -1,0 +1,6 @@
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\DTO\bin\Debug\DTO.dll
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\DTO\bin\Debug\DTO.pdb
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\DTO\obj\Debug\DTO.dll
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\DTO\obj\Debug\DTO.pdb

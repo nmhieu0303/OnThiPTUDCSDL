@@ -1,0 +1,14 @@
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.dll
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.dll
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.dll
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\BUS.pdb
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\DAL.pdb
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\bin\Debug\DTO.pdb
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\HOME\OneDrive\Máy tính\HK1 2020-2021\Phat trien co so du lieu\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
